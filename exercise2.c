@@ -1,4 +1,4 @@
-*
+/*
  * Worksheet19_Exercise_2
  * 
  * Create a project that changes the state of 8 leds depending on the state of the switches connected on pin P2.0. 
